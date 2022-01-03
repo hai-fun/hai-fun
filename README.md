@@ -1,5 +1,8 @@
 # Link
 - OSDN: https://osdn.net/users/haifun/
+- Haifun Project(OSDN): https://haifun.osdn.jp/
+- Twitter: https://twitter.com/haifun_mugi
+- YouTube: https://www.youtube.com/channel/UCd5SaAnCwx-XAGb2Mn9KudQ/featured
 
 # Name
 - はいふん
